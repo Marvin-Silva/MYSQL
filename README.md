@@ -2,10 +2,10 @@
 
 --------------------------------------------------
 
-## Pour installer une base de donnees est très simples, il suffit de':'
+## Pour installer une base de donnees est très simples, il suffit de:
 
-1 - Ouvrir le dossier du schema dans le terminal SQL et l'éxecuter
-2 - Ouvrir le dossier de la base de donnees et l'éxecuter
+### 1 - Ouvrir le dossier du schema dans le terminal SQL et l'éxecuter
+### 2 - Ouvrir le dossier de la base de donnees et l'éxecuter
 
 En ce que concerne l'enregistrement des vos données ce n'est pas compliqué non plus.
 
